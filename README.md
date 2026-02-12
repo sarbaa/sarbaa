@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sarba
+## 👋 Hi, I'm Sarbagya
 
 ### 💻 Skills
 <p>
