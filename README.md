@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sarba%20Stha&fontSize=40&fontColor=ffffff"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarbaa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
