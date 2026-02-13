@@ -4,11 +4,12 @@
 
 ## 🧠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
+
 
 ---
 
@@ -19,20 +20,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sarbaa&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/sarbaa/sarbaa/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
