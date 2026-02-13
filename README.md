@@ -1,7 +1,5 @@
-## 👋 Hi, I'm Sarbagya
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Sarba%20Stha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Sarbagya%20Shrestha&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ## 🧠 Tech Stack
